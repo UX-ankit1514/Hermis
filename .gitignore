@@ -1,0 +1,11 @@
+.venv/
+browser-profile/
+logs/
+state/
+config.json
+*.lock
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
